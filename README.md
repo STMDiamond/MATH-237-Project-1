@@ -5,7 +5,7 @@ Hello and welcome to the page for our first project in MATH 237. Revolving aroun
 3. Perform Feature Engineering: Use ratio features for some variables and binning for others; all while making histograms to show these features together.
 4. Visualize the Data: Create histograms for all five variables and scatterplots for four of these variables.
 5. Conducting Multiple Linear Regression: Split the data into a train-test set with the 80-20 split, construct a correlation matrix, scale these sets, train the model, interpret the coefficients, and finally evaluate both the train as well as the test sets.
-Note: For parts 3 and 4, we used the following key to distinguish the variables that we were measuring.
+* Note: For parts 3 and 4, we used the following key to distinguish the variables that we were measuring.
 1. Red – Lot Area in Square Feet
 2. Orange – Year Built
 3. Yellow – Masonry Veneer Area in Square Feet
